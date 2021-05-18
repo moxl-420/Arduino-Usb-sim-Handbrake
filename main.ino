@@ -5,9 +5,9 @@
 // Analog eBrake-Handbrake
 // PIN A1 to 10k pot output - Handbrake Axis
 // Use with Arduino ProMicro.
-// Tested and working in DiRT RALLY + ASSETTO CORSA
-// Inspired by by AMSTUDIO
-// 20.1.2017
+// Tested and working in DiRT RALLY 2.0
+// Inspired byAMSTUDIO
+// This will need to be calibrated in windows joystick manager.
 
 #include <Joystick.h>
 const int pinToButtonMap = A1;
