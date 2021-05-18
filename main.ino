@@ -3,7 +3,7 @@
 #include <Adafruit_ThinkInk.h>
 
 // Analog eBrake-Handbrake
-// PIN A1 to 10k pot output - Throttle Axis
+// PIN A1 to 10k pot output - Handbrake Axis
 // Use with Arduino ProMicro.
 // Tested and working in DiRT RALLY + ASSETTO CORSA
 // Inspired by by AMSTUDIO
